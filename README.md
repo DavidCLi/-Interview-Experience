@@ -4,11 +4,10 @@ Note for interviews
 ##  [x] SAP
 **Frontend**  
 ---
-    - [x] Senior Software Engineer (Finance)
----
----
-    - [x] Senior Software Engineer (Solution Manager)
+    - Senior Software Engineer (Finance)
 
-## IBM
+    - Senior Software Engineer (Solution Manager)
 
-## Appier
+##  [x] IBM
+
+##  [x] Appier
