@@ -23,7 +23,8 @@ First-Round (Engineer + Manager)
     2. What is your experience to solve performance issue? (That is really hard... but try to co-work with QA)
     3. Other topices from your background
     
-* Second-Rdound (Global Engineer + Global Manager)
+Second-Rdound (Global Engineer + Global Manager)
+
     *  no join
     
 ---
