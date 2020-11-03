@@ -48,5 +48,14 @@ Second-Rdound (Global Engineer + Global Manager)
     *  focus on ticket topic and global experience
     
 ##  [x] IBM
-    - Technical Consultant
+##  Technical Consultant
+First-Round (Manager)
+
+    1. Project Experience
+    2. Cloud Solution
+    3. SAP Experience
     
+    
+Second-Rdound (Partner)
+
+    *  focus on project experience and salary package
