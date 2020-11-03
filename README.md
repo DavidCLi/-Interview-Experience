@@ -2,7 +2,7 @@
 Note for interviews
 
 ## SAP
-    Senior Software Engineer
+    - [x] Senior Software Engineer
 
 ## IBM
 
