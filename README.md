@@ -5,7 +5,8 @@ Note for interviews
 **Frontend**  
 ---
     - [x] Senior Software Engineer (Finance)
---- 
+---
+---
     - [x] Senior Software Engineer (Solution Manager)
 
 ## IBM
