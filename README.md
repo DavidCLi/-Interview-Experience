@@ -1,8 +1,7 @@
 # Interview-Experience
 Note for interviews
 
-##  [x] SAP
-**Frontend**  
+##  [x] SAP 
 ---
     - Senior Software Engineer (Finance)
 
