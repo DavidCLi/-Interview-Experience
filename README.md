@@ -29,8 +29,23 @@ Second-Rdound (Global Engineer + Global Manager)
     
 ---
 ## Senior Software Engineer (Solution Manager)
-    * First-Round (Engineer + Manager)
-    * Second-Rdound (Global Engineer + Global Manager)
+First-Round (Engineer + Manager)
+
+    * Technical part:
+    1. The difference between standard / sort / hash table in ABAP
+    2. Explain Inheritance and Polymorphism
+    3. Explain ABAP OO (Constructor / Class-method / Public, Protect, Private)
+    
+    From my experience, the CDS is created for Fiori app only. The getway service is based on CDS view.
+    
+    * Operation part:
+    1. What is your experience to support ticket? (In SAP, the different teams, the style is difference)
+    2. What is your experience to solve performance issue? (That is really hard... but try to co-work with QA)
+    3. Other topices from your background
+    
+Second-Rdound (Global Engineer + Global Manager)
+
+    *  focus on ticket topic and global experience
     
 ##  [x] IBM
     - Technical Consultant
