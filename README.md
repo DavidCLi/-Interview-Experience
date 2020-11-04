@@ -12,6 +12,8 @@ First-Round (Engineer + Manager)
     2. What is the difference between MPC and DPC? (One for Model / One for Data)
     3. What is your experience to create action (MPC define actions(input/output parameters), DPC redefine actions(logic)) 
        >>> Funtion import, another way, if you want to try
+       * MPC_EXT --> DEFINE()
+       * DPC_EXT --> EXECUTE_ACTION()
     4. The experiece to use BOPF and RAP
     5. The experiece to use CDS view, AMDP, and HANA procedure
     6. The experiece to use framework (SAPJ, AIF, Situation)
